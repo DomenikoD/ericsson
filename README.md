@@ -31,9 +31,9 @@ We want to see the test cases, test design, test plan, hiring plan on resources 
 
 ## RESULTS:
 
-[Robust Test Automation Framework](https://github.com/DomenikoD/ericsson/blob/main/robust-test-automation-framework.md)
-[SWAGGER HUB Pet Store](https://app.swaggerhub.com/apis/DOMENIKODIVJAK_1/PetStore/1.0.0)
-[Test Automation with Python - Selenium](https://github.com/DomenikoD/ericsson/blob/main/testautomation.ipynb)
+- [Robust Test Automation Framework Description](https://github.com/DomenikoD/ericsson/blob/main/robust-test-automation-framework.md)
+- [SWAGGER HUB Pet Store](https://app.swaggerhub.com/apis/DOMENIKODIVJAK_1/PetStore/1.0.0)
+- [Test Automation with Python - Selenium](https://github.com/DomenikoD/ericsson/blob/main/testautomation.ipynb)
 
 
 
