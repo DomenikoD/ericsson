@@ -29,9 +29,10 @@ Additionally, discuss any potential challenges you foresee and how you would add
 We want to see the test cases, test design, test plan, hiring plan on resources and what you are going to look at
 
 
-RESULTS:
+## RESULTS:
+
 [Robust Test Automation Framework](https://github.com/DomenikoD/ericsson/blob/main/robust-test-automation-framework.md)
-[SWAGGER HUB Pet Store]([https://www.google.com](https://app.swaggerhub.com/apis/DOMENIKODIVJAK_1/PetStore/1.0.0))
+[SWAGGER HUB Pet Store](https://app.swaggerhub.com/apis/DOMENIKODIVJAK_1/PetStore/1.0.0)
 [Test Automation with Python - Selenium](https://github.com/DomenikoD/ericsson/blob/main/testautomation.ipynb)
 
 
