@@ -1,4 +1,4 @@
-# ericsson
+# Ericsson - QA Interview
 ## Interview task
 
 You've been tasked with leading the test automation efforts for a new web application that is being developed by your company.
